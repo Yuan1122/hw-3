@@ -1,0 +1,7 @@
+50
+hello 1
+min 1
+to 1
+the 1
+big 2
+world 2
